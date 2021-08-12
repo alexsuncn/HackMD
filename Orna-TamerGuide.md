@@ -6,7 +6,7 @@
 
 &emsp;&emsp;宠物流的首要概念就是角色等级越高，宠物属性越强。宠物的攻击数值与角色的攻击数值无关，但宠物会受到角色buff的影响。也就是说如果想要增加宠物伤害，就需要根据宠物技能的攻击类型（物理/法术）加相对应的buff。
 
-&emsp;&emsp;另外，不同的宠物有着不同行动概率和技能数量，会导致不同的行为表现。一回合中宠物作何行动，是有概率公式可以计算的（具体请看：[Orna宠物行动解析(Taiwan PixiuuixiP)](https://hackmd.io/@pixiu/SJWhweX9O)），宠物最终的行动概率受到多种因素（职业被动/专精/装备/宝石）影响。
+&emsp;&emsp;另外，不同的宠物有着不同行动概率和技能数量，会导致不同的行为表现。一回合中宠物作何行动，是有概率公式可以计算的，具体参考：[Orna宠物行动解析(Taiwan PixiuuixiP)](https://hackmd.io/@pixiu/SJWhweX9O)，宠物最终的行动概率受到多种因素（职业被动/专精/装备/装饰品）影响。
 
 ## 1 职业
 
@@ -135,7 +135,12 @@ T8开始宠物要用欧币买了，反正没什么好用的攻击宠，等到T9�
 **尼德霍格**：![Nidhogg](https://orna.guide/static/orna/img/monsters/nidhogg.png)  
 俗称蓝龙，适合打地城以及副本，地图怪也可；物理法术双攻击，伤害不错，注意攻击都是龙属性，所以不适合打竞技场（遇到巴哈就歇菜）。
 
-## 4 宠物增强因素汇总
+## 4 装备
+
+装备方面T10之前没有什么要求，可以同时参考物理/法术的攻略，有什么好装备就穿什么。
+注意盗贼装不能穿，但“近战系”的装备是可以穿的。
+
+## 5 宠物增强因素汇总
 
 ### 职业被动
 
@@ -157,21 +162,23 @@ T8开始宠物要用欧币买了，反正没什么好用的攻击宠，等到T9�
 ### 常见装备
 | 装备名称 | 影响宠物的效果 |
 | :- | :- |
-| 变异巨龙装备（任意一件） | 宠物行动概率+2% |
-| 变异奇美拉装备（任意一件） | 宠物行动概率+5% 宠物属性+10% |
-| 龙骑士的护符 | 宠物行动概率+2% 宠物属性+4% |
-| 弗蕾亚护符 | 宠物行动概率+4%，宠物属性+10% |
-| 贝奥武夫护符 | 宠物行动概率-5%，宠物属性+25% |
+| T7 变异巨龙装备（任意一件）![Fey Dragon](https://orna.guide/static/orna/img/bosses/fey_dragon.png) | 宠物行动概率+2% |
+| T10 变异奇美拉装备（任意一件）![Fey Chimera](https://orna.guide/static/orna/img/bosses/fey_chimera.png) | 宠物行动概率+5% 宠物属性+10% |
+| T5 龙骑士的护符![Dragoon's Charm](https://orna.guide/static/orna/img/acc/draco_amulet.png) | 宠物行动概率+2% 宠物属性+4% |
+| T10 弗蕾亚护符![Freyja's Charm](https://orna.guide/static/orna/img/acc/draco_amulet.png) | 宠物行动概率+4% 宠物属性+10% |
+| T10 贝奥武夫护符![Beowulf's Charm](https://orna.guide/static/orna/img/jewels/53.png) | 宠物行动概率-5% 宠物属性+25% |
 
 注意贝奥武夫护符是减行动概率！
 
 ### 装饰品
-| 装饰品名称 | 影响宠物的效果 |
-| :- | :- |
-| 毁灭象征 | 宠物行动概率+1% 宠物属性+2% |
-| 凶残之眼 | 宠物行动概率+1% 宠物属性+1% |
+| 装饰品名称 | 出处 | 影响宠物的效果 |
+| :- | :- | :- |
+| 毁灭象征![Symbol of Doom](https://orna.guide/static/orna/img/jewels/55.png) | T10 终焉骑士![Final Horseman](https://orna.guide/static/orna/img/bosses/horseman_death.png) | 宠物行动概率+1% 宠物属性+2% |
+| 凶残之眼![Bestial Eye](https://orna.guide/static/orna/img/jewels/11.png) | (T9)T6 (重生的)贝西摩斯![Behemoth](https://orna.guide/static/orna/img/bosses/behemoth.png) | 宠物行动概率+1% 宠物属性+1% |
 
-## 结语
+两个装饰品都会减属性，所以品质“损坏的”最好。
+
+## 6 结语
 
 &emsp;&emsp;宠物流属于比较特殊的流派，既可以按照物理玩，又可以按照法术玩，相对来说比较自由。然而同时又要考虑到宠物的部分，所以其实更加复杂。希望看到这里的诸位能够多看看大神们写的其他攻略，摸索出适合自己的游玩道路。
 
